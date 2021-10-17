@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce6a3c12-77fc-4672-bc3a-390573e78054" name="更改" comment="" />
+    <list default="true" id="bee7efe5-0a49-4658-ac90-ed32b6ac6881" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1ywVWNFY3CjezzOamQOLItSkuzh" />
+  <component name="ProjectId" id="1zaCzisK1iPe81wMJkdXNcpxBUq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -82,12 +82,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.NoCodeNoLife.Main" />
-      <module name="prototype pattern" />
+      <module name="the strategy pattern" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -104,13 +103,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="ce6a3c12-77fc-4672-bc3a-390573e78054" name="更改" comment="" />
-      <created>1633162668171</created>
+      <changelist id="bee7efe5-0a49-4658-ac90-ed32b6ac6881" name="变更" comment="" />
+      <created>1634377081229</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1633162668171</updated>
-      <workItem from="1633162669537" duration="1411000" />
-      <workItem from="1634376236856" duration="44000" />
+      <updated>1634377081229</updated>
+      <workItem from="1634377082912" duration="723000" />
     </task>
     <servers />
   </component>
